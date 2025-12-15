@@ -1,0 +1,5 @@
+{
+  "name": "LE_01",
+  "description": "Interactive 3D shape sculpting testing environment.",
+  "requestFramePermissions": []
+}
